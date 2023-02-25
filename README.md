@@ -21,7 +21,7 @@ Colabs:
 ## Fall 2022
 Self-Practice Exercises: 
 * [Basic](/CSCI1200_Python_Practice_Exercises_(Basics).pdf)
-* [Numercial Computations](/CSCI1200_Python_Practice_Exercises_(Numerical_Comp.pdf)
+* [Numercial Computations](/CSCI1200_Python_Practice_Exercises_(Numerical_Comp.pdf
  
 
 
