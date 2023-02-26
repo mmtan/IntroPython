@@ -39,8 +39,8 @@ Self-Practice Exercises:
 * [Binary search](/CSCI1200_Python_Practice_Exercises_(Binary_Search).pdf)
 
 Exams: 
-* [Midterm 1 Practice Exam 2](/CSCI_1200_Midterm1_(post_review).pdf)
 * [Midterm 1 Practice Exam 1](/CSCI_1200_Midterm1_Practice.pdf)
+* [Midterm 1 Practice Exam 2](/CSCI_1200_Midterm1_(post_review).pdf)
 * [Midterm2 Practice Exam](/CSCI_1200_(B,C,_E)_Midterm2_Practice.pdf)
 * [Final Practice Exam](/CSCI_1200_Final_Practice_(C,D,_E).pdf)
 
