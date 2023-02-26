@@ -15,6 +15,11 @@ Quizzes:
  [Quiz4](/CSCI1200_Spring_2023_Quiz_4.pdf)
  [Quiz5](/CSCI1200_Spring_2023_Quiz_5.pdf)
  
+ Exams: 
+ [Midterm](/CSCI1200_Spring_2023_Midterm.pdf)
+ [Final](/CSCI1200_Spring_2023_Final.pdf)
+ 
+ 
 Colab Notebooks: 
 (Lecture) [First program](https://colab.research.google.com/drive/1hWm7VHxIKUX9lJcRVK0PGnz-ncK8Ohri?usp=sharing)
 (Lab) [Simple programs](https://colab.research.google.com/drive/15ZfG5N3vo_ygv6_9wHhFxaWMKzZVh9Dp?usp=sharing)
