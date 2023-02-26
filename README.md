@@ -1,7 +1,7 @@
 # Introduction to Programming using Python
 This website contains all the practice exercises, quizzes, exams and lab assigments used in the course Introduction to Programming.
 
-**These documents are not to be sold, published, or distributed without the authors’ consent.**
+**These documents are not to be sold, published, or distributed without the author's consent.**
 
 Instructor: Dr. Ming Ming Tan
 
