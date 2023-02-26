@@ -45,17 +45,16 @@ Exams:
 * [Final Practice Exam](/CSCI_1200_Final_Practice_(C,D,_E).pdf)
 
 Lab Assignments: 
-[Lab1](/IntroPython/lab_assigments/lab1.ipynb)
-[Lab2](/IntroPython/lab_assigments/lab2.ipynb)
-[Lab3](/IntroPython/lab_assigments/lab3.ipynb)
-[Lab4](/IntroPython/lab_assigments/lab4.ipynb)
-[Lab5](/IntroPython/lab_assigments/lab5.ipynb)
-[Lab6](/IntroPython/lab_assigments/lab6.ipynb)
-[Lab7](/IntroPython/lab_assigments/lab7.ipynb)
-[Lab8](/IntroPython/lab_assigments/lab8.ipynb)
-[Lab9](/IntroPython/lab_assigments/lab9.ipynb)
+[Lab1](/IntroPython/lab_assigments/lab01.ipynb)
+[Lab2](/IntroPython/lab_assigments/lab02.ipynb)
+[Lab3](/IntroPython/lab_assigments/lab03.ipynb)
+[Lab4](/IntroPython/lab_assigments/lab04.ipynb)
+[Lab5](/IntroPython/lab_assigments/lab05.ipynb)
+[Lab6](/IntroPython/lab_assigments/lab06.ipynb)
+[Lab7](/IntroPython/lab_assigments/lab07.ipynb)
+[Lab8](/IntroPython/lab_assigments/lab08.ipynb)
+[Lab9](/IntroPython/lab_assigments/lab09.ipynb)
 [Lab10](/IntroPython/lab_assigments/lab10.ipynb)
-
 
 
 
